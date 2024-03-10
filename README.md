@@ -1,2 +1,2 @@
-# Shreemala_Portfolio
+# Shreemala Portfolio
 Includes my Technical Writing samples
