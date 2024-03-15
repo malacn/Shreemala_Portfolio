@@ -1,7 +1,7 @@
-Shreemala C. N. Profile
+# Shreemala C. N. Profile<br>
 
-**Shreemala. C. N**
-Changchun, China | +86 17808054510 
+**Shreemala. C. N** <br>
+Changchun, China | +86 17808054510 <br>
 malacn@gmail.com or shreemalacn@outlook.com | https://linkedin.com/in/shreemalacn
 
 # Summary
