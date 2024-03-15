@@ -11,7 +11,7 @@ Seasoned technical writer and content strategist with 14 plus years of global co
 Lean project management | Project Planning | Software Documentation | User personal targeting | Software documentation in the Agile framework with Scrum and Kanban methodologies | Search Engine Optimization | Content Strategy | Lean Project Management | Research on technical data | Information Architecture and Redesign | Refactor content to keep the product document current | Create instructional and release videos | Teamwork and stakeholders management | Better engineering experience with solid documentation.
 
 # Skills
-Markdown | GitHub | Docs-as-Code | Wiki | Camtasia | Adobe Experience Manager | Confluence | Adobe Captivate | RoboHelp | Advanced Word | DITA | HTML Basics | ASCIIDOC | DITA | CMS & CCMS | Rally | Asana
+Markdown | GitHub | Docs-as-Code | Wiki | Camtasia | Adobe Experience Manager | Confluence | Adobe Captivate | RoboHelp | Advanced Word | DITA | HTML Basics | ASCIIDOC | DITA | CMS & CCMS | Rally | Asana | SnagIt | Canva | Mural
 
 ## Professional Experience
 ### Documentation Engineer	 
